@@ -1,4 +1,4 @@
-### Hi there 👋
+### Git Commands 👋
 
 <!--
 **ddavid04/ddavid04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
